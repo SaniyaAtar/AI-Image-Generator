@@ -4,7 +4,7 @@ const imageResult = document.querySelector("#image_result");
 let isImgGen = false;
 
 // Replace with your actual Hugging Face API key
-const huggingFaceAPIKey = "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"; 
+const huggingFaceAPIKey = "YOUR_API_KEY"; 
 
 // Function to update image boxes with generated images
 const updateImgBoxes = (imgBoxArray) => {
